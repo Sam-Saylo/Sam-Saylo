@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sam-Saylo
-- 👀 I’m interested in web development ( backend )
-- 🌱 I’m currently learning PHP 
+- 👀 I’m interested in Hacking
+- 🌱 I’m currently Web Pentesting
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : 1 - samuelsaylo10@gmail.com 2 - +22951053585 3 - Sam Saylo
 
